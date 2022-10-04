@@ -1,0 +1,23 @@
+{
+  "name": "estudos-relacionados-a-node.js-",
+  "version": "1.0.0",
+  "description": "Exercício de programação feito durante estudos na internet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvoalves/Estudos-relacionados-a-node.js-.git"
+  },
+  "author": "João Vitor Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvoalves/Estudos-relacionados-a-node.js-/issues"
+  },
+  "homepage": "https://github.com/jvoalves/Estudos-relacionados-a-node.js-#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
